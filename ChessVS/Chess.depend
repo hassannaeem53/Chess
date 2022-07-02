@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1645450558 source:c:\users\iuser\desktop\chess\chess\main.cpp
+	"include\\actionList.h"
+	<iostream>
+	<iomanip>
+	"include\\chess.h"
+	"include\\autoPlayer.h"
+	"include\\humanPlayer.h"
+
+1549910817 c:\users\iuser\desktop\chess\chess\include\\actionlist.h
+
+1518194401 c:\users\iuser\desktop\chess\chess\include\\chess.h
+	"gameState.h"
+	"chessPlayer.h"
+	"UI.h"
+
+1549918018 c:\users\iuser\desktop\chess\chess\include\\gamestate.h
+	"chessBoard.h"
+	<string>
+	"ENUM.h"
+	"actionList.h"
+
+1518194984 c:\users\iuser\desktop\chess\chess\include\\chessboard.h
+	<string>
+
+1518194772 c:\users\iuser\desktop\chess\chess\include\\enum.h
+
+1549910590 c:\users\iuser\desktop\chess\chess\include\\chessplayer.h
+	<string>
+	"ENUM.h"
+	"gameState.h"
+	"actionList.h"
+
+1518812520 c:\users\iuser\desktop\chess\chess\include\\ui.h
+	"gameState.h"
+	<string>
+
+1549910566 c:\users\iuser\desktop\chess\chess\include\\autoplayer.h
+	"chessPlayer.h"
+	"ENUM.h"
+
+1549910605 c:\users\iuser\desktop\chess\chess\include\\humanplayer.h
+	<string>
+	"ENUM.h"
+	"chessPlayer.h"
+
+1549911581 source:c:\users\iuser\desktop\chess\chess\src\actionlist.cpp
+	"..\\include\\actionList.h"
+	<iostream>
+
+1549910817 c:\users\iuser\desktop\chess\chess\\include\\actionlist.h
+
+1549918041 source:c:\users\iuser\desktop\chess\chess\src\autoplayer.cpp
+	"..\\include\\autoPlayer.h"
+	<iostream>
+	"..\\include\\ENUM.h"
+	<cstdlib>
+
+1549910566 c:\users\iuser\desktop\chess\chess\\include\\autoplayer.h
+	"chessPlayer.h"
+	"ENUM.h"
+
+1549910590 c:\users\iuser\desktop\chess\chess\\include\\chessplayer.h
+	<string>
+	"ENUM.h"
+	"gameState.h"
+	"actionList.h"
+
+1518194772 c:\users\iuser\desktop\chess\chess\\include\\enum.h
+
+1549918018 c:\users\iuser\desktop\chess\chess\\include\\gamestate.h
+	"chessBoard.h"
+	<string>
+	"ENUM.h"
+	"actionList.h"
+
+1518194984 c:\users\iuser\desktop\chess\chess\\include\\chessboard.h
+	<string>
+
+1549918508 source:c:\users\iuser\desktop\chess\chess\src\chess.cpp
+	"..\\include\\chess.h"
+	"..\\include\\humanPlayer.h"
+	"..\\include\\autoPlayer.h"
+	<iostream>
+
+1518194401 c:\users\iuser\desktop\chess\chess\\include\\chess.h
+	"gameState.h"
+	"chessPlayer.h"
+	"UI.h"
+
+1518812520 c:\users\iuser\desktop\chess\chess\\include\\ui.h
+	"gameState.h"
+	<string>
+
+1549910605 c:\users\iuser\desktop\chess\chess\\include\\humanplayer.h
+	<string>
+	"ENUM.h"
+	"chessPlayer.h"
+
+1518811072 source:c:\users\iuser\desktop\chess\chess\src\chessboard.cpp
+	"..\\include\\chessBoard.h"
+
+1518195650 source:c:\users\iuser\desktop\chess\chess\src\chessplayer.cpp
+	"chessPlayer.h"
+
+1549910590 c:\users\iuser\desktop\chess\chess\include\chessplayer.h
+	<string>
+	"ENUM.h"
+	"gameState.h"
+	"actionList.h"
+
+1518194772 c:\users\iuser\desktop\chess\chess\include\enum.h
+
+1549918018 c:\users\iuser\desktop\chess\chess\include\gamestate.h
+	"chessBoard.h"
+	<string>
+	"ENUM.h"
+	"actionList.h"
+
+1518194984 c:\users\iuser\desktop\chess\chess\include\chessboard.h
+	<string>
+
+1549910817 c:\users\iuser\desktop\chess\chess\include\actionlist.h
+
+1549918311 source:c:\users\iuser\desktop\chess\chess\src\gamestate.cpp
+	"..\\include\\gameState.h"
+
+1549910931 source:c:\users\iuser\desktop\chess\chess\src\humanplayer.cpp
+	"..\\include\\humanPlayer.h"
+	<iostream>
+
+1549911992 source:c:\users\iuser\desktop\chess\chess\src\ui.cpp
+	"..\\include\\UI.h"
+	<iostream>
+	<iomanip>
+
