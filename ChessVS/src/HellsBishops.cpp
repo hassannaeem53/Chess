@@ -4,7 +4,6 @@
 #include<cstdlib>
 using namespace std;
 
-//L19-2380_LL19-2344_Hell's Bishops
 
 //Note :
 //if max depth is not passed as the parameter then by default depth 3 will be used as maximum depth for our minimax algorithm
